@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>gopi</name>
-	      <url>http://34.224.51.8:8081/repository/mvnweb-Release//</url>
+	      <url>http://34.207.79.131:8081/repository/mvnweb-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gopisnapshot</name>
-	      <url>http://34.224.51.8:8081/repository/Mavenweb-sanpshot/</url>
+	      <url>http://34.207.79.131:8081/repository/Mavenweb-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
