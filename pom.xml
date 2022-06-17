@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://44.204.61.128:9000/</sonar.host.url>
+		<sonar.host.url>http://44.202.88.220:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>  
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>gopi</name>
-	      <url>http://34.207.79.131:8081/repository/mvnweb-Release/</url>
+	      <url>http://52.55.101.59:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gopisnapshot</name>
-	      <url>http://34.207.79.131:8081/repository/Mavenweb-sanpshot/</url>
+	      <url>http://52.55.101.59:8081/repository/Mavenweb-sanpshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
